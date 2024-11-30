@@ -8,27 +8,27 @@ export interface JobVacancy {
 
 export const mockJobVacancies: JobVacancy[] = [
   {
-    title: "Senior Software Engineer",
-    salary: "$120,000 - $150,000",
-    companyName: "Tech Solutions Inc",
-    location: "San Francisco, CA",
+    title: "Бариста",
+    salary: "15 000 - 20 000 грн",
+    companyName: "Кава Хаус",
+    location: "Одеса, Україна",
     description:
-      "Looking for an experienced software engineer to join our growing team...",
+      "Шукаємо досвідченого бариста для роботи в затишній кав'ярні...",
   },
   {
-    title: "Frontend Developer",
-    salary: "$90,000 - $110,000",
-    companyName: "WebDev Co",
-    location: "New York, NY",
+    title: "Водій",
+    salary: "25 000 - 35 000 грн",
+    companyName: "Транспорт Сервіс",
+    location: "Дніпро, Україна",
     description:
-      "Seeking a frontend developer with React experience to build modern web applications...",
+      "Потрібен водій зі стажем для роботи на корпоративному транспорті...",
   },
   {
-    title: "Full Stack Developer",
-    salary: "$100,000 - $130,000",
-    companyName: "Digital Innovations",
-    location: "Austin, TX",
+    title: "Full Stack Розробник",
+    salary: "100 000 - 130 000 грн",
+    companyName: "Діджитал Інновації",
+    location: "Харків, Україна",
     description:
-      "Join our team to work on exciting full stack projects using modern technologies...",
+      "Приєднуйтесь до нашої команди для роботи над цікавими full stack проектами...",
   },
 ];
